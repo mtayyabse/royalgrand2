@@ -25,9 +25,8 @@ export function middleware(request) {
       </head>
       <body>
         <main>
-          <h1>Website Temporarily Unavailable</h1>
-          <p>We're making some updates to our website.
-          Please check back later.</p>
+          <h1>Website Unavailable</h1>
+          <p>Business has been closed</p>
           <p>Thank you for your patience.</p>
         </main>
       </body>
